@@ -1,0 +1,18 @@
+Class notes
+
+January 21, 2016:
+
+Markdown provides a way to make text look great in Jupyter. Double click to edit cells
+GIT ADD gets GIT to recognize your file in the GIT code. GIT COMMIT actually adds it to your local repository. GIT COMMIT -a will track all added files.
+To get your files from local repository to internet world, use GIT PUSH
+so.. recap Local files >> - GIT ADD - >> Local repository >> - GIT COMMIT - >> github >> - GIT PUSH - >> Local repository >> - GIT PULL - <<<
+GIT CLONE is a first time repository download use
+
+Assembly language is most basic computing language possible... 
+check out corewars
+MATLAB was originally a wrapper for LAPACK (blerg)
+python upcasts for mathematical operation 
+
+Homework: Markdown tutorial
+          Homework 02
+          CoreWars
